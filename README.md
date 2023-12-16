@@ -17,7 +17,8 @@ Skeleton of a gui app:
     while True:
         event, values = window.read()
     
-    if event == sg.WIN_CLOSED:
-        break
+        if event == sg.WIN_CLOSED:
+            break
+            
     window.close()
 
