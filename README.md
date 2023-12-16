@@ -1,2 +1,2 @@
 # PySimpleGUI
-create simple Apps using the PySimpleGUI library.
+ --> Create simple Apps using the PySimpleGUI library.
