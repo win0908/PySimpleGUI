@@ -12,7 +12,7 @@ Skeleton of a gui app:
         []
     ]
     
-    window = sg.Window('Converter',layout)
+    window = sg.Window('',layout)
     
     while True:
         event, values = window.read()
